@@ -1,9 +1,11 @@
 # Deep Learning Projects Collection
 
 This repository contains three deep learning projects demonstrating real-world applications in image classification, transfer learning, and text classification (NLP).
-CNN-Cat vs Dog : [https://colab.research.google.com/drive/1uo0Zu4a9sS_RaDS7g4vt_E6fJQN4Y5ZC?usp=sharing]
-Flower Classification: [https://colab.research.google.com/drive/1B9wVy9bGM7NFFHHcvLls_h_5rP4Rfd0J?usp=sharing]
-NLP Spam Classifier: [https://colab.research.google.com/drive/1pweTjzp0_0BEnBz0Gh7K8MUaVZNjQ5-y?usp=sharing]
+## Colab Notebooks
+- **CNN - Cat vs Dog**: [Open Notebook](https://colab.research.google.com/drive/1uo0Zu4a9sS_RaDS7g4vt_E6fJQN4Y5ZC?usp=sharing)  
+- **Flower Classification (Transfer Learning)**: [Open Notebook](https://colab.research.google.com/drive/1B9wVy9bGM7NFFHHcvLls_h_5rP4Rfd0J?usp=sharing)  
+- **NLP - Spam Classifier**: [Open Notebook](https://colab.research.google.com/drive/1pweTjzp0_0BEnBz0Gh7K8MUaVZNjQ5-y?usp=sharing)
+
 ---
 
 ## Project 1: Cat vs Dog Image Classifier (CNN)
